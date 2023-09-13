@@ -97,6 +97,14 @@ Before running the application, make sure you have the following software instal
 - Use the user interface to manage books, members, and transactions as a librabrian.
 - Ensure that book fees and outstanding debts are handled correctly.
 
+
+## Html Page PNG
+![Html](https://github.com/mohiittt/Library_Management_Web_Application-/assets/93429104/942ffb95-490c-45e5-9d14-86155b974ff5)
+
+## SQLite Database PNG
+![SQLite Database](https://github.com/mohiittt/Library_Management_Web_Application-/assets/93429104/9f5b6e93-e581-403b-a3fb-d4e12ecfb939)
+
+
 ## Contributing
 
 Contributions to this project are welcome! If you have any improvements, bug fixes, or new features to suggest, please open an issue or submit a pull request.
